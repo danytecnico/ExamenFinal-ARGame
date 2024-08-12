@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{1EC7184D-0AC9-3F4E-DE47-DBFA6925F9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F276DFEE-8D5F-B816-524B-276536C073F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{A5BD47B5-7B4E-1920-5DC4-0C7FB9F6B25E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets", "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj", "{8C39F5E8-A8EF-2A10-3024-785891E75618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{C70D6232-D05D-9AE6-9BE9-EAB4E4A5D7FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor.csproj", "{A7F33601-CEB7-35E2-401F-8008ED9407B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{67C3EF54-D5C5-8D54-153B-04E6AC4C177B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC7184D-0AC9-3F4E-DE47-DBFA6925F9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC7184D-0AC9-3F4E-DE47-DBFA6925F9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC7184D-0AC9-3F4E-DE47-DBFA6925F9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC7184D-0AC9-3F4E-DE47-DBFA6925F9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F276DFEE-8D5F-B816-524B-276536C073F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F276DFEE-8D5F-B816-524B-276536C073F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F276DFEE-8D5F-B816-524B-276536C073F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F276DFEE-8D5F-B816-524B-276536C073F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5BD47B5-7B4E-1920-5DC4-0C7FB9F6B25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BD47B5-7B4E-1920-5DC4-0C7FB9F6B25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BD47B5-7B4E-1920-5DC4-0C7FB9F6B25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BD47B5-7B4E-1920-5DC4-0C7FB9F6B25E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C39F5E8-A8EF-2A10-3024-785891E75618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C39F5E8-A8EF-2A10-3024-785891E75618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C39F5E8-A8EF-2A10-3024-785891E75618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C39F5E8-A8EF-2A10-3024-785891E75618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70D6232-D05D-9AE6-9BE9-EAB4E4A5D7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70D6232-D05D-9AE6-9BE9-EAB4E4A5D7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70D6232-D05D-9AE6-9BE9-EAB4E4A5D7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70D6232-D05D-9AE6-9BE9-EAB4E4A5D7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F33601-CEB7-35E2-401F-8008ED9407B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F33601-CEB7-35E2-401F-8008ED9407B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F33601-CEB7-35E2-401F-8008ED9407B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F33601-CEB7-35E2-401F-8008ED9407B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C3EF54-D5C5-8D54-153B-04E6AC4C177B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C3EF54-D5C5-8D54-153B-04E6AC4C177B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C3EF54-D5C5-8D54-153B-04E6AC4C177B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C3EF54-D5C5-8D54-153B-04E6AC4C177B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
